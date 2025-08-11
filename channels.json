@@ -1,28 +1,108 @@
 {
   "channels": [
     {
-      "id": "example-channel",
-      "name": "ערוץ לדוגמה",
+      "id": "100",
+      "name": "ערוץ דוגמה של צ'אטפרי",
       "address": "https://example.chatfree.app",
-      "client": "ChatFree Demo",
+      "client": "ChatFree",
       "isChatFreeClient": true,
-      "description": "ערוץ לדוגמה המציג את יכולות המערכת ואפשרויות הפרסום השונות"
+      "description": "ערוץ לדוגמה המציג את יכולות המערכת"
     },
     {
-      "id": "news-channel",
-      "name": "ערוץ חדשות",
-      "address": "https://news.chatfree.app",
-      "client": "חדשות יומיות",
+      "id": "101",
+      "name": "מסודרים - טיפים לכלכלה נכונה",
+      "address": "https://mesudrim.chatfree.app",
+      "client": "ChatFree",
       "isChatFreeClient": true,
-      "description": "ערוץ חדשות יומי עם עדכונים שוטפים מהארץ והעולם"
+      "description": "ערוץ טיפים לכלכלה נכונה מבית מסודרים"
     },
     {
-      "id": "community-channel",
-      "name": "ערוץ קהילתי",
-      "address": "https://community.chatfree.app",
-      "client": "קהילת המשתמשים",
+      "id": "102",
+      "name": "הפורום התורני",
+      "address": "https://torani.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "פורום לדיונים תורניים"
+    },
+    {
+      "id": "103",
+      "name": "מיוזיק אונליין 🎶🎶",
+      "address": "https://music.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "ערוץ מוזיקה"
+    },
+    {
+      "id": "104",
+      "name": "משכנתא ונדל\"ן",
+      "address": "https://nadlan.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "קבוצה שקטה לעדכונים וטיפים בנושא משכנתא ונדל\"ן"
+    },
+    {
+      "id": "105",
+      "name": "דרך המלך",
+      "address": "https://derech-hamelech.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "ערוץ דרך המלך"
+    },
+    {
+      "id": "106",
+      "name": "בחצרות",
+      "address": "https://bechatsros.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "ערוץ בחצרות"
+    },
+    {
+      "id": "107",
+      "name": "מורשת מרן",
+      "address": "https://news.moreshet-maran.com",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "ערוץ חדשות מורשת מרן"
+    },
+    {
+      "id": "108",
+      "name": "קניה נכונה",
+      "address": "https://buying-right.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "ערוץ לקניות חכמות"
+    },
+    {
+      "id": "109",
+      "name": "הציוצים החמים",
+      "address": "https://the-hot-tweets.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "הציוצים החמים והמעניינים ברשת"
+    },
+    {
+      "id": "110",
+      "name": "הגיזרה",
+      "address": "https://hagizra.news",
+      "client": "ChatFree",
       "isChatFreeClient": false,
-      "description": "ערוץ קהילתי לדיונים ושיתוף מידע בין חברי הקהילה"
+      "description": "צ'אט הגיזרה"
+    },
+    {
+      "id": "111",
+      "name": "אַקְטוּאָלְיָה וְהוּמוֹר | הֶחָתוּל הַשָּׁחוֹר",
+      "address": "https://black-cat.thechats.click",
+      "client": "ChatFree",
+      "isChatFreeClient": false,
+      "description": ""
+    },
+    {
+      "id": "112",
+      "name": "בזאר המציאות - הסודות של עלי אקספרס",
+      "address": "https://aliexpress.thechats.click",
+      "client": "ChatFree",
+      "isChatFreeClient": false,
+      "description": ""
     }
   ]
 }
