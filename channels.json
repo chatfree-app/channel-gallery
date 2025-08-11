@@ -1,0 +1,28 @@
+{
+  "channels": [
+    {
+      "id": "example-channel",
+      "name": "ערוץ לדוגמה",
+      "address": "https://example.chatfree.app",
+      "client": "ChatFree Demo",
+      "isChatFreeClient": true,
+      "description": "ערוץ לדוגמה המציג את יכולות המערכת ואפשרויות הפרסום השונות"
+    },
+    {
+      "id": "news-channel",
+      "name": "ערוץ חדשות",
+      "address": "https://news.chatfree.app",
+      "client": "חדשות יומיות",
+      "isChatFreeClient": true,
+      "description": "ערוץ חדשות יומי עם עדכונים שוטפים מהארץ והעולם"
+    },
+    {
+      "id": "community-channel",
+      "name": "ערוץ קהילתי",
+      "address": "https://community.chatfree.app",
+      "client": "קהילת המשתמשים",
+      "isChatFreeClient": false,
+      "description": "ערוץ קהילתי לדיונים ושיתוף מידע בין חברי הקהילה"
+    }
+  ]
+}
