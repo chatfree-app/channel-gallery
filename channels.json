@@ -103,8 +103,25 @@
       "client": "ChatFree",
       "isChatFreeClient": false,
       "description": ""
-    }
+    },
+    {
+      "id": "113",
+      "name": "My ali - מותגים מוסתרים",
+      "address": "https://myali-mutagim.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "אין תיאור"
+    },
+    {
+      "id": "114",
+      "name": "My ali - קישורים קופונים לאלי אקספרס",
+      "address": "https://myali.chatfree.app",
+      "client": "ChatFree",
+      "isChatFreeClient": true,
+      "description": "אין תיאור"
+    }  
   ]
 }
+
 
 
