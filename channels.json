@@ -18,11 +18,11 @@
     },
     {
       "id": "102",
-      "name": "הפורום התורני",
+      "name": "פורום היכל התורה",
       "address": "https://torani.chatfree.app",
       "client": "ChatFree",
       "isChatFreeClient": true,
-      "description": "פורום לדיונים תורניים"
+      "description": "פורום לשאלות בהלכה ודיונים תורניים"
     },
     {
       "id": "103",
@@ -106,3 +106,4 @@
     }
   ]
 }
+
