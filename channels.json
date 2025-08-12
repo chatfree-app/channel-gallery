@@ -50,11 +50,11 @@
     },
     {
       "id": "106",
-      "name": "בחצרות",
+      "name": "בחצרות הקודש",
       "address": "https://bechatsros.chatfree.app",
       "client": "ChatFree",
       "isChatFreeClient": true,
-      "description": "ערוץ בחצרות"
+      "description": "ערוץ בחצרות הקודש"
     },
     {
       "id": "107",
@@ -106,4 +106,5 @@
     }
   ]
 }
+
 
