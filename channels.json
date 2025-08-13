@@ -18,7 +18,7 @@
     },
     {
       "id": "102",
-      "name": "פורום היכל התורה",
+      "name": "היכל התורה",
       "address": "https://torani.chatfree.app",
       "client": "ChatFree",
       "isChatFreeClient": true,
@@ -122,6 +122,7 @@
     }  
   ]
 }
+
 
 
 
